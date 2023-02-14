@@ -1,5 +1,4 @@
-// Can you see this?
-// Yup //
+// Current weather section starts here//
 function formatDate(timestamp) {
     let date = new Date(timestamp);
     let hours = date.getHours();
@@ -71,3 +70,4 @@ let form = document.querySelector("#search-form");
 form.addEventListener("submit", handleSubmit);
 
 search("New York");
+//current weather section ends here//
