@@ -71,3 +71,4 @@ form.addEventListener("submit", handleSubmit);
 
 search("New York");
 //current weather section ends here//
+//forecast section starts here//
