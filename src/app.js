@@ -1,3 +1,5 @@
+// Can you see this?
+// Yup //
 function formatDate(timestamp) {
     let date = new Date(timestamp);
     let hours = date.getHours();
@@ -56,7 +58,7 @@ function formatDate(timestamp) {
   }
 function search(city){
   let apiKey = "e450bc345a80a08ada69fd5c714d871d";
-  let apiURL = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=${apiKey}&units=metric`;
+  let apiURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
   axios.get(apiURL).then(displayTemperature);
 }
 function handleSubmit(event) {
