@@ -25,11 +25,11 @@ The Weather App was developed using the following technologies:
 - OpenWeatherMap API
 
 ## Creation Process
-Click [here](https://yourblog.com/weather-app-creation-process) to read my post on the creation process of the Weather App.
+Click [here](https://chrissycodes.hashnode.dev/sunny-with-a-chance-of-coding) to read how I designed and developed this app
 
 ## Usage
-To use the Weather App, simply open the app in your web browser and enter a city name in the search bar. The app will display the current weather conditions for that city. Alternatively, you can allow the app to automatically detect your geolocation and display the weather for your current location.
+To use the Weather App, click [here](https://sprightly-squirrel-f4c66b.netlify.app/) and enter a city name in the search bar. The app will display the current weather conditions for that city. 
 
-## Credits
-The Weather App was created by [Your Name]. Thanks to Bootstrap for the CSS styling.
+## Author
+- Linkfree - [Christine Belzie](https://linkfree.eddiehub.io/CBID2) 
 
